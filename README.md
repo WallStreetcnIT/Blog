@@ -6,6 +6,8 @@
 
 Github主页: [WallStreetcnIT](https://github.com/WallStreetcnIT/ "Title")
 
+博客地址:[华尔街见闻技术团队blog](https://wallstreetcnit.github.io/"Title")
+
 新浪微博: [华尔街见闻技术团队](http://weibo.com/5977281147/profile?topnav=1&wvr=6/ "Title")
 ####Our team is young and active, welcome to join us!
 
