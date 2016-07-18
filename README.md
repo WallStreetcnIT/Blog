@@ -10,6 +10,7 @@ Github主页: [WallStreetcnIT](https://github.com/WallStreetcnIT/ "Title")
 ####Our team is young and active, welcome to join us!
 
 
+---
 ##华尔街见闻技术部 交流分享会小结
 ####时间：2016年7月14日 13:00-14:00
 ####地点：智造局一期307华尔街见闻大会议室
