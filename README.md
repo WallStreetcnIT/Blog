@@ -11,6 +11,53 @@ Github主页: [WallStreetcnIT](https://github.com/WallStreetcnIT/ "Title")
 新浪微博: [华尔街见闻技术团队](http://weibo.com/5977281147/profile?topnav=1&wvr=6/ "Title")
 ####Our team is young and active, welcome to join us!
 
+##华尔街见闻技术部 交流分享会（二）
+####时间：2016年7月28日 13:00-14:00
+####地点：智造局一期307华尔街见闻中会议室
+####主题：动画养成记
+####主讲人：王雨威 [个人主页](https://github.com/JeasonWong "Title") 
+---
+####**观点：想让自己的github变得star多多吗？那就做动画吧！**
+---
+_引言: github吸星大法_
+
+[示例一](https://github.com/ldoublem/LoadingView 
+"Title") 
+[示例二](https://github.com/android-cjj/JJSearchViewAnim 
+"Title")
+[示例三](https://github.com/daimajia/NumberProgressBar
+"Title") 
+
+[大神排行榜](http://githuber.cn/rank "Title")
+
+[优秀设计资源](https://dribbble.com "Title")
+
+_举例详解 [BezierLoadingView](https://github.com/JeasonWong/BezierLoadingView)_
+![效果](http://i4.buimg.com/cdd5a4a8f0233650.gif)
+
+- 圆周运动
+ * 圆点坐标：(x0,y0)
+ * 半径：r
+ * 角度：a0
+ * 则圆上任一点为：（x1,y1）
+ * x1 = x0 + r * cos(ao * 3.14 /180 )
+ * y1 = y0 + r * sin(ao * 3.14 /180 )
+ 
+
+- 贝塞尔曲线
+  * [QQ气泡](https://github.com/wangjiegulu/DraggableFlagView "Title")
+  
+       <img src='https://raw.githubusercontent.com/wangjiegulu/DraggableFlagView/master/screenshot/draggableflagview.gif' height='500px'/>
+
+  * [礼物冒泡特效](https://github.com/Yasic/QQBubbleView "Title")
+  
+     ![](http://diycode.b0.upaiyun.com/photo/2016/55b80c4c270e41e429c468973f215cc7.gif)
+
+
+- 三角函数
+
+_实践成果展示 [SubmitButton](https://github.com/SparkYuan/SubmitButton "Title")_
+
 
 ---
 ##华尔街见闻技术部 交流分享会（一）
